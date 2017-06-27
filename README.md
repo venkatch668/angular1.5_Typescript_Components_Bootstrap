@@ -17,8 +17,8 @@ Angular1.5 Component with Typescript using Bootstrap
 
 ## References
 1. [AngularJS](https://angularjs.org)
-2. Angular Material ( [API Docs](https://material.angularjs.org/latest/) | [GitHub](https://github.com/angular/material) )
-3. UI Router ( [API Docs](https://ui-router.github.io/docs/latest/) | [GitHub](https://github.com/angular-ui/ui-router) )
+2. Bootstrap (http://getbootstrap.com/)
+3. UI Router ( [API Docs](https://ui-router.github.io/docs/latest/)
 4. [TypeScript](http://typescriptlang.org/)
 5. [Webpack](https://webpack.github.io/)
 
