@@ -1,0 +1,16 @@
+html, body {
+  font-family: 'Roboto', sans-serif;
+  font-size: 14px;
+  color: #212121;
+  height: 100%;
+  margin: 0;
+  padding: 0;
+}
+
+footer{
+	position:absolute;
+	bottom:0px;
+	width:100%;
+	background:#000;padding:10px;
+	p{margin:0px;color:#fff}
+}
